@@ -1,0 +1,7 @@
+{
+  "name": "GyreScope: Great Pacific Garbage Patch GIS",
+  "description": "Interactive oceanographic GIS story dashboard for geography students mapping plastic concentration, gyre currents, 1980–2050 accumulation trends, and ecological impacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
